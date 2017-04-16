@@ -2,7 +2,7 @@
 Choose A Folder Interactively on RStudio
 
 
-To install the package easily:
+To install the package:
 ```
 library(devtools)
 
