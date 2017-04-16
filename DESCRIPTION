@@ -1,0 +1,10 @@
+Package: chooseDir
+Title: Choose A Folder Interactively
+Version: 0.0.0.9000
+Author: Giuseppe Farinacci [aut, cre]
+Maintainer: Giuseppe Farinacci <giuseppe.farinacci@gmail.com>
+Description: This function allows you to choose a folder interactively from a Finder shell folder widget on RStudio.
+Depends: R (>= 3.2.4)
+License: GPL
+Encoding: UTF-8
+LazyData: true
