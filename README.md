@@ -7,6 +7,8 @@ To install the package easily:
 library(devtools)
 
 install_github('gfarinacci/chooseDir')
+
+library(chooseDir)
 ```
 
 Now you can use the choose.dir() function on MacOSX working with RStudio, for example:
